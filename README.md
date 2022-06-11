@@ -1,12 +1,10 @@
 # YiiDemo
 A YiiDemo for Yinhao.This demo is showing how to use the yii2's GridView widget.
 
-#Demo Description
+# Demo Description
 Yii is a high-performance modern PHP framework best for developing both web applications and APIs.
 
 [https://www.yiiframework.com/](https://www.yiiframework.com/)
-
-
 
 ## Specifications
 
@@ -39,8 +37,6 @@ CREATE TABLE `supplier` (
 1. After having rows selected, the user can click an "Export" button to download all selected rows as a CSV file.
     1. The user will be asked (could be a modal or a single page): Which column(s) to be included in the CSV and column "id" is mandatory.
     2. And of course, this should correctly handle the "select across all pages" situation.
-
-
 
 # Requirements
 
